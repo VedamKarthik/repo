@@ -1,3 +1,3 @@
 World
-country2
-city2
+country
+city
